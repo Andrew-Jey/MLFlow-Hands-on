@@ -26,7 +26,7 @@ This project demonstrates the basic features of MLflow Tracking, including loggi
 
 3.  **Install dependencies**:
     ```bash
-    pip install -r requirements.txt
+    pip install -r .\Quickstart\requirements.txt
     ```
 
 ## Usage
