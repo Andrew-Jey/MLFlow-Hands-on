@@ -1,4 +1,6 @@
 mlflow
 pandas
-scikit-learn
-optuna
+torch
+torchvision
+psutil
+

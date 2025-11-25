@@ -8,10 +8,7 @@ It showcases:
 - Tracking of training and validation metrics (Loss, Accuracy) across epochs.
 - Model checkpointing and final model logging.
 
-## Project Structure
 
-- `deeplearning.py`: The main script that trains the Neural Network.
-- `requirements.txt`: Pip requirements file.
 
 ## Prerequisites
 
@@ -73,3 +70,8 @@ This script will:
 ### 3. View Results
 
 Go back to the MLflow UI at `http://localhost:5000`. You should see a new experiment named "Deep Learning Experiment" with runs containing your logged data.
+
+## Project Structure
+
+- `deeplearning.py`: The main script that trains the Neural Network.
+- `requirements.txt`: Pip requirements file.
